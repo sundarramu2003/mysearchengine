@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Users/Raghavan/Desktop/lucene-3.5.0/lucene-3.5.0/lucene-core-3.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raghavan/Desktop/lucene-3.5.0/lucene-3.5.0/contrib/benchmark/lucene-benchmark-3.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raghavan/Desktop/lucene-3.5.0/lucene-3.5.0/contrib/highlighter/lucene-highlighter-3.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raghavan/Desktop/lucene-3.5.0/lucene-3.5.0/contrib/analyzers/common/lucene-analyzers-3.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raghavan/Desktop/lucene-3.5.0/commons-compress-1.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
